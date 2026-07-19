@@ -1,0 +1,11 @@
+# Compiled binaries & build artifacts
+*.out
+*.key
+*.log
+*.diag
+*.swp
+*.vcd
+*.evcd
+sim_test
+test_*
+.simvision/
